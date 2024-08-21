@@ -1,0 +1,12 @@
+{
+  "name": "google-auth-fetch",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "jose": "^5.7.0"
+  }
+}
